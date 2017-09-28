@@ -1,3 +1,5 @@
+//This is the test class for Derby -6902
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
